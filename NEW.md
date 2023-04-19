@@ -1,1 +1,1 @@
-I'm a new file
+git is awesome!
